@@ -21,7 +21,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Diksha8-db&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Diksha8-db&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🤝 Contributing
+
+I'm always open to collaboration and contributions!  
+If you have ideas, suggestions, or improvements,feel free to check the [issues](https://github.com/Diksha8-db/Diksha8-db/issues) or submit a [pull request](https://github.com/Diksha8-db/Diksha8-db/pulls).
+
+If you like what you see, ⭐️ the repo or fork it to start your own journey!
+
+---
+
