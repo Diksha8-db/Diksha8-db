@@ -15,7 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Diksha8-db&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Diksha8-db&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha8-db&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Visitor Count](https://profile-counter.glitch.me/Diksha8-db/count.svg)
 
 
 ## 🏆 GitHub Trophies
