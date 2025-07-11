@@ -3,7 +3,7 @@
 
 <!-- Your Info. -->
 <h1 align="center">Hi 👋, I'm Diksha Bharti</h1>
-<h3 align="center">Frontend Developer | Learning Backend </h3>
+<h3 align="center"> MERN Stack Developer </h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diksha_bharti06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diksha-bharti-055499326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhartidiksha2008@gmail.com) 
